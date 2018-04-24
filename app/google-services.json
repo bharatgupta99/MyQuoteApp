@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282353277460",
+    "firebase_url": "https://myquoteapp-aa0b5.firebaseio.com",
+    "project_id": "myquoteapp-aa0b5",
+    "storage_bucket": "myquoteapp-aa0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282353277460:android:fbc84602e6f862f0",
+        "android_client_info": {
+          "package_name": "com.bharat.myquoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282353277460-v29tsmbojicccbvn1sl4leic8ma5gmr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharat.myquoteapp",
+            "certificate_hash": "0cd39f0dee2f628ec324002bd3417e43cff7cb68"
+          }
+        },
+        {
+          "client_id": "282353277460-vbl3fbc2ftf6u2qkifkn20mo1kjfvj5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4VCEM2euD1vUp3YnUj2mRCkPX8VfvGm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282353277460-vbl3fbc2ftf6u2qkifkn20mo1kjfvj5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
